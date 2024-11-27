@@ -3,6 +3,8 @@
   Finance Manager
 </h1>
 
+<h4 align="center">A  Mobile App built on top of <a href="https://reactnative.dev/" target="_blank">React Native</a>.</h4>
+
 <p align="center">
   <img src="https://res.cloudinary.com/institutotrader/image/upload/v1732711614/0.%20Fernando.com/versao-gif-Compressed.gif" width="180" height="388" />
 </p>
